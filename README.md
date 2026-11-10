@@ -3,23 +3,23 @@ NanoKVM LiteとATXマザーのPINを接続するためのボード
 
 ## 回路図 / Schematic
 
-![Schematic](https://raw.githubusercontent.com/MOUSOUDOU/MSD-X008-NanoKVM_IO_Shield/main/images/SCH_NanoKVM-IO-Shield_Schematic.svg)
+![Schematic](./images/SCH_NanoKVM-IO-Shield_Schematic.svg)
 
 ## 基板 / PCB
 
 ### TOP
 
-![TOP](https://raw.githubusercontent.com/MOUSOUDOU/MSD-X008-NanoKVM_IO_Shield/main/images/TOP.png)
+![TOP](./images/TOP.png)
 
 ### BOTTOM
 
-![BOTTOM](https://raw.githubusercontent.com/MOUSOUDOU/MSD-X008-NanoKVM_IO_Shield/main/images/BOTTOM.png)
+![BOTTOM](./images/BOTTOM.png)
 
 ## 3Dビュー / 3D View
 
-![3D-1](https://raw.githubusercontent.com/MOUSOUDOU/MSD-X008-NanoKVM_IO_Shield/main/images/3D-1.png)
+![3D-1](./images/3D-1.png)
 
-![3D-2](https://raw.githubusercontent.com/MOUSOUDOU/MSD-X008-NanoKVM_IO_Shield/main/images/3D-2.png)
+![3D-2](./images/3D-2.png)
 
 ## ライセンス / License
 
