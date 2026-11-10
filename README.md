@@ -21,6 +21,8 @@ NanoKVM LiteとATXマザーのPINを接続するためのボード
 
 ![3D-2](./images/3D-2.png)
 
+![3D-3](./images/3D-3.png)
+
 ## ライセンス / License
 
 **No License**
