@@ -7,21 +7,33 @@ NanoKVM LiteとATXマザーのPINを接続するためのボード
 
 ## 基板 / PCB
 
-### TOP
 
-![TOP](./images/TOP.png)
-
-### BOTTOM
-
-![BOTTOM](./images/BOTTOM.png)
+| TOP | BOTTOM |
+| :---: | :---: |
+| ![TOP](./images/TOP.png) | ![BOTTOM](./images/BOTTOM.png) |
 
 ## 3Dビュー / 3D View
 
-![3D-1](./images/3D-1.png)
+| | | |
+| :---: | :---: | :---: |
+| ![3D-1](./images/3D-1.png) | ![3D-3](./images/3D-3.png) | ![3D-2](./images/3D-2.png) |
 
-![3D-2](./images/3D-2.png)
+## パーツリスト
 
-![3D-3](./images/3D-3.png)
+| No. | Quantity | Comment | Designator |
+| --- | --- | --- | --- |
+| 1 | 1 | 33uF | C-B1 |
+| 2 | 1 | 33uF | C-B2 |
+| 3 | 1 | 2.54-2*6P_JX | P1 |
+| 4 | 2 | 330Ω | R1,R2 |
+| 5 | 3 | TLP172GM | U1,U2,U3 |
+| 6 | 1 | 0.96インチ OLEDディスプレイモジュール (128x64 / SSD1306) | U5 |
+| 7 | 1 | TA48033S | U-B1 |
+| 8 | 1 | USB-A | USB-B1 |
+| 9 | 1 | NanoKVM Lite | X1,X-B1 |
+
+
+
 
 ## ライセンス / License
 
