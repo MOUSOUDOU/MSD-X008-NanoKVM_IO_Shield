@@ -3,7 +3,7 @@ NanoKVM LiteとATXマザーのPINを接続するためのボード
 
 ## 回路図 / Schematic
 
-![Schematic](https://raw.githubusercontent.com/MOUSOUDOU/MSD-X008-NanoKVM_IO_Shield/main/images/SCH_PickingBoard_Schematic.svg)
+![Schematic](https://raw.githubusercontent.com/MOUSOUDOU/MSD-X008-NanoKVM_IO_Shield/main/images/SCH_NanoKVM-IO-Shield_Schematic.svg)
 
 ## 基板 / PCB
 
