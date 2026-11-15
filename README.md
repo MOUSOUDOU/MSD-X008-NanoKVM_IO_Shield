@@ -43,7 +43,7 @@ https://github.com/sipeed/NanoKVM/releases#release-v1.4.3
 | ![Assembled-001](./images/NanoKVMLite-V2_0_Assembled-001.png) | ![Assembled-002](./images/NanoKVMLite-V2_0_Assembled-002.png) | ![Assembled-003](./images/NanoKVMLite-V2_0_Assembled-003.png) | ![Assembled-004](./images/NanoKVMLite-V2_0_Assembled-004.png) |
 
 
-## 組み立て後 / Assembled
+## OLED の再認識 / OLED Re-Detect
 
 OLEDの認識は以下を実行することで認識してくれます。
 
