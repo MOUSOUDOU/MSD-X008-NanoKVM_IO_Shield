@@ -32,13 +32,27 @@ NanoKVM LiteとATXマザーのPINを接続するためのボード
 | 8 | 1 | USB-A | USB-B1 |
 | 9 | 1 | NanoKVM Lite | X1,X-B1 |
 
+NanoKVM Lite OS
+https://github.com/sipeed/NanoKVM/releases#release-v1.4.3
 
 
 ## 組み立て後 / Assembled
 
 | | | | |
 | :---: | :---: | :---: | :---: |
-| ![3D-1](./images/NanoKVMLite-V2_0_Assembled-001.png) | ![3D-3](./images/NanoKVMLite-V2_0_Assembled-002.png) | ![3D-2](./images/NanoKVMLite-V2_0_Assembled-003.png) | ![3D-2](./images/NanoKVMLite-V2_0_Assembled-004.png) |
+| ![Assembled-001](./images/NanoKVMLite-V2_0_Assembled-001.png) | ![Assembled-002](./images/NanoKVMLite-V2_0_Assembled-002.png) | ![Assembled-003](./images/NanoKVMLite-V2_0_Assembled-003.png) | ![Assembled-004](./images/NanoKVMLite-V2_0_Assembled-004.png) |
+
+
+## 組み立て後 / Assembled
+
+OLEDの認識は以下を実行することで認識してくれます。
+```/kvmapp/system/init.d/S15kvmhwd -re-detect```
+
+| TOP |
+| :---: |
+| ![ReDetect-001](./images/NanoKVMLite-V2_0-ReDetect-001.png) |
+
+
 
 
 ## ライセンス / License
