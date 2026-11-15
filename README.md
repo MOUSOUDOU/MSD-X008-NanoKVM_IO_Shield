@@ -46,7 +46,9 @@ https://github.com/sipeed/NanoKVM/releases#release-v1.4.3
 ## 組み立て後 / Assembled
 
 OLEDの認識は以下を実行することで認識してくれます。
+
 ```/kvmapp/system/init.d/S15kvmhwd -re-detect```
+
 
 | TOP |
 | :---: |
