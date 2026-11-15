@@ -50,7 +50,7 @@ OLEDの認識は以下を実行することで認識してくれます。
 ```/kvmapp/system/init.d/S15kvmhwd -re-detect```
 
 
-| TOP |
+|  |
 | :---: |
 | ![ReDetect-001](./images/NanoKVMLite-V2_0-ReDetect-001.png) |
 
