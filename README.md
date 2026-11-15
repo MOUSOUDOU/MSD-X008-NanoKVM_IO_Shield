@@ -34,6 +34,12 @@ NanoKVM LiteとATXマザーのPINを接続するためのボード
 
 
 
+## 組み立て後 / Assembled
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| ![3D-1](./images/NanoKVMLite-V2_0_Assembled-001.png) | ![3D-3](./images/NanoKVMLite-V2_0_Assembled-002.png) | ![3D-2](./images/NanoKVMLite-V2_0_Assembled-003.png) | ![3D-2](./images/NanoKVMLite-V2_0_Assembled-004.png) |
+
 
 ## ライセンス / License
 
